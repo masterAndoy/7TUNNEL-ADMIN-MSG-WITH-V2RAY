@@ -2,16 +2,14 @@
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-📌LATEST UPDATE ✅TGIF!!!!
+📌Config FOR UPDATE!!!!
 
-✅DONE REBOOTING
+✅REPLACE DEAD SERVERS
 
-✅WAG KALIMUTAN MAG WATCH ADS para maka IPON ng COINS
+✅ENJOY FREE BROWSING
 
 💯Enjoy your FREE ACCESS
 
 👉 For more queries, pm me directly 🔗https://m.me/petevalientejr
 
 Your Connection is OUR PRIORITY." }
-
-TEST ONLY

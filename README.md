@@ -1,14 +1,14 @@
-{ "Message_version": "12", "My_Message": "📌📌BASA📌📌
+{ "Message_version": "13", "My_Message": "📌📌IMPORTANT📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-📌Config FOR UPDATE!!!!
+📌HOLA!!!!
 
-✅REPLACE DEAD SERVERS
+✅Dont Forget To RATE in PLAYSTORE
 
 ✅ENJOY FREE BROWSING
 
-💯Enjoy your FREE ACCESS
+✅PLEASE HELP SHARE THE APP. THANK YOU!!
 
 👉 For more queries, pm me directly 🔗https://m.me/petevalientejr
 

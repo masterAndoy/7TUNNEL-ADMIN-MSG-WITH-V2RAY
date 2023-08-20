@@ -1,14 +1,12 @@
-{ "Message_version": "13", "My_Message": "📌📌IMPORTANT📌📌
+{ "Message_version": "14", "My_Message": "📌📌IMPORTANT📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-📌HOLA!!!!
+✅SA LAHAT PO NG USERS NG APP NA ITO
 
-✅Dont Forget To RATE in PLAYSTORE
+✅PLS DOWNLOAD CE7VEN PLUS SA PLAYSTORE
 
-✅ENJOY FREE BROWSING
-
-✅PLEASE HELP SHARE THE APP. THANK YOU!!
+✅FOR APPROVAL PA ANG 7PLUS PARA SA GTM NOLOAD
 
 👉 For more queries, pm me directly 🔗https://m.me/petevalientejr
 

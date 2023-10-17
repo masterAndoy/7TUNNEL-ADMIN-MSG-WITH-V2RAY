@@ -1,15 +1,15 @@
-{ "Message_version": "15", "My_Message": "📌📌IMPORTANT📌📌
+{ "Message_version": "16", "My_Message": "📌📌IMPORTANT📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-HELLO!!
+⚠️⚠️ ATTENTION ⚠️⚠️
 
-PLEASE UPDATE YOUR 7PLUS APP IN PLAYSTORE
+👉NEED UPDATE IN PLAYSTORE👈
 
-NEW APP VERSION HAS BEEN RELEASED..
+✅OLD VERSION WILL NOT WORK SOON ✅FOR MODDERS? THANK YOU ✅ALL SERVERS WILL TRANSFER TO NEW APP VERSION
 
-DONT FORGET TO RATE AND SHARE WITH YOUR FAMILY AND FRIENDS
+PLS FOLLOW ON MY FB for more UPDATES!!
 
 👉 For more queries, pm me directly 🔗https://m.me/petevalientejr
 
-Your Connection is OUR PRIORITY." }
+Your Connection is OUR PRIORITY." } }

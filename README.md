@@ -1,8 +1,8 @@
-{ "Message_version": "17", "My_Message": "📌📌IMPORTANT📌📌
+{ "Message_version": "16", "My_Message": "📌📌IMPORTANT📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-⚠️⚠️ ATTENTION ⚠️⚠️
+TEST
 
 👉NEED UPDATE IN PLAYSTORE👈
 
